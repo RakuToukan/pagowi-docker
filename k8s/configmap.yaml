@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mosaic-config
+data:
+  APP_ENV: "praktikum-kelas-a"
+  DEFAULT_DISTANCE: "euclidean"

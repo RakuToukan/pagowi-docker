@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pkl
+*.png
+*.jpg
+*.md
+k8s/
+.git/
+main_original.py
+compare_knn.py
+smoke_test.sh
