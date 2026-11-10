@@ -10,3 +10,5 @@ k8s/
 main_original.py
 compare_knn.py
 smoke_test.sh
+deploy.sh
+bukti_deployment.txt
